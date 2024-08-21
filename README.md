@@ -22,8 +22,8 @@ Make sure you have the following installed on your machine:
 **Cloning the repository**
 
 ```bash
-git clone https://github.com/arw/polewka.git
-cd next-sitarski
+git clone https://github.com/arwcode/polewka.git
+cd polewka
 ```
 
 **Installation**
